@@ -1,0 +1,36 @@
+[submodule "Day-1"]
+	path = Day-1
+	url = https://github.com/KevinYakha/Day-1.git
+[submodule "Day-2/ElonsToys"]
+	path = Day-2/ElonsToys
+	url = https://github.com/KevinYakha/ElonsToys.git
+[submodule "Day-2/NeedForSpeed"]
+	path = Day-2/NeedForSpeed
+	url = https://github.com/KevinYakha/NeedForSpeed.git
+[submodule "Day-2/SimpleCipher"]
+	path = Day-2/SimpleCipher
+	url = https://github.com/KevinYakha/SimpleCipher
+[submodule "Day-3/WizardsAndWarriors"]
+	path = Day-3/WizardsAndWarriors
+	url = https://github.com/KevinYakha/WizardsAndWarriors
+[submodule "Day-3/LogsLogsLogs"]
+	path = Day-3/LogsLogsLogs
+	url = https://github.com/KevinYakha/LogsLogsLogs
+[submodule "Day-3/RemoteControlCompetition"]
+	path = Day-3/RemoteControlCompetition
+	url = https://github.com/KevinYakha/RemoteControlCompetition
+[submodule "Day-3/WizardsAndWarriors2"]
+	path = Day-3/WizardsAndWarriors2
+	url = https://github.com/KevinYakha/WizardsAndWarriors2
+[submodule "Day-4/FootballMatchReports"]
+	path = Day-4/FootballMatchReports
+	url = https://github.com/KevinYakha/FootballMatchReports
+[submodule "Day-4/BirdWatcher"]
+	path = Day-4/BirdWatcher
+	url = https://github.com/KevinYakha/BirdWatcher
+[submodule "Day-3/SimpleLinkedList"]
+	path = Day-3/SimpleLinkedList
+	url = https://github.com/KevinYakha/SimpleLinkedList
+[submodule "Day-4/Grep"]
+	path = Day-4/Grep
+	url = https://github.com/KevinYakha/Grep
