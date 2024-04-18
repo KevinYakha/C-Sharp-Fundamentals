@@ -37,3 +37,6 @@
 [submodule "Day-5/TheWeatherInDeather"]
 	path = Day-5/TheWeatherInDeather
 	url = https://github.com/KevinYakha/TheWeatherInDeather
+[submodule "Day-5/BinarySearch"]
+	path = Day-5/BinarySearch
+	url = https://github.com/KevinYakha/BinarySearch
