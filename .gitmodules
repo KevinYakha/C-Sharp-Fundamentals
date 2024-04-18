@@ -34,3 +34,6 @@
 [submodule "Day-4/Grep"]
 	path = Day-4/Grep
 	url = https://github.com/KevinYakha/Grep
+[submodule "Day-5/TheWeatherInDeather"]
+	path = Day-5/TheWeatherInDeather
+	url = https://github.com/KevinYakha/TheWeatherInDeather
