@@ -46,3 +46,6 @@
 [submodule "Day-6/SecureMunchesterUnited"]
 	path = Day-6/SecureMunchesterUnited
 	url = https://github.com/KevinYakha/SecureMunchesterUnited
+[submodule "Day-6/Faceid2"]
+	path = Day-6/Faceid2
+	url = https://github.com/KevinYakha/Faceid2
