@@ -43,3 +43,6 @@
 [submodule "Day-6/2ExerciseDataTypeConversion"]
 	path = Day-6/2ExerciseDataTypeConversion
 	url = https://github.com/KevinYakha/2ExerciseDataTypeConversion
+[submodule "Day-6/SecureMunchesterUnited"]
+	path = Day-6/SecureMunchesterUnited
+	url = https://github.com/KevinYakha/SecureMunchesterUnited
