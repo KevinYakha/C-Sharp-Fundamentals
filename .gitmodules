@@ -49,3 +49,6 @@
 [submodule "Day-6/Faceid2"]
 	path = Day-6/Faceid2
 	url = https://github.com/KevinYakha/Faceid2
+[submodule "Day-6/SqueakyClean"]
+	path = Day-6/SqueakyClean
+	url = https://github.com/KevinYakha/SqueakyClean
