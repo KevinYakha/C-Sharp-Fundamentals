@@ -40,3 +40,6 @@
 [submodule "Day-5/BinarySearch"]
 	path = Day-5/BinarySearch
 	url = https://github.com/KevinYakha/BinarySearch
+[submodule "Day-6/2ExerciseDataTypeConversion"]
+	path = Day-6/2ExerciseDataTypeConversion
+	url = https://github.com/KevinYakha/2ExerciseDataTypeConversion
