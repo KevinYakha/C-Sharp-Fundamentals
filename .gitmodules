@@ -58,3 +58,6 @@
 [submodule "Day-7/RedVsBlueDarwinStyle"]
 	path = Day-7/RedVsBlueDarwinStyle
 	url = https://github.com/KevinYakha/RedVsBlueDarwinStyle
+[submodule "Day-7/LandGrabInSpace"]
+	path = Day-7/LandGrabInSpace
+	url = https://github.com/KevinYakha/LandGrabInSpace
