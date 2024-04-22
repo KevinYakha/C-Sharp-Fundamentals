@@ -55,3 +55,6 @@
 [submodule "Day-7/HighSchoolSweethearts"]
 	path = Day-7/HighSchoolSweethearts
 	url = https://github.com/KevinYakha/HighSchoolSweethearts
+[submodule "RedVsBlueDarwinStyle"]
+	path = RedVsBlueDarwinStyle
+	url = https://github.com/KevinYakha/RedVsBlueDarwinStyle
