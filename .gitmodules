@@ -52,3 +52,6 @@
 [submodule "Day-6/SqueakyClean"]
 	path = Day-6/SqueakyClean
 	url = https://github.com/KevinYakha/SqueakyClean
+[submodule "Day-7/HighSchoolSweethearts"]
+	path = Day-7/HighSchoolSweethearts
+	url = https://github.com/KevinYakha/HighSchoolSweethearts
