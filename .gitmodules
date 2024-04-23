@@ -64,3 +64,6 @@
 [submodule "Day-7/WeighingMachine"]
 	path = Day-7/WeighingMachine
 	url = https://github.com/KevinYakha/WeighingMachine
+[submodule "Day-8/ParsingLogFiles"]
+	path = Day-8/ParsingLogFiles
+	url = https://github.com/KevinYakha/ParsingLogFiles
