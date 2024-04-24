@@ -67,3 +67,6 @@
 [submodule "Day-8/ParsingLogFiles"]
 	path = Day-8/ParsingLogFiles
 	url = https://github.com/KevinYakha/ParsingLogFiles
+[submodule "Day-9/DndCharacter"]
+	path = Day-9/DndCharacter
+	url = https://github.com/KevinYakha/DndCharacter
