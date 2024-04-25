@@ -76,3 +76,6 @@
 [submodule "Day-10/AuthenticationSystem"]
 	path = Day-10/AuthenticationSystem
 	url = https://github.com/KevinYakha/AuthenticationSystem
+[submodule "Day-10/DeveloperPrivileges"]
+	path = Day-10/DeveloperPrivileges
+	url = https://github.com/KevinYakha/DeveloperPrivileges
