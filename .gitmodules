@@ -73,3 +73,6 @@
 [submodule "Day-10/HyperiaForex"]
 	path = Day-10/HyperiaForex
 	url = https://github.com/KevinYakha/HyperiaForex
+[submodule "Day-10/AuthenticationSystem"]
+	path = Day-10/AuthenticationSystem
+	url = https://github.com/KevinYakha/AuthenticationSystem
